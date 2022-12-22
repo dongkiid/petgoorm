@@ -1,6 +1,6 @@
-#GitHub issues 사용법 
+# GitHub issues 사용법 
 
-##1.issues 클릭 후 화면에서 New issue 버튼 클릭
+## 1.issues 클릭 후 화면에서 New issue 버튼 클릭
 ![issue](https://user-images.githubusercontent.com/54580802/208859054-a895d117-1d44-41be-98ce-552d99438d23.png)
 <br/>
 
